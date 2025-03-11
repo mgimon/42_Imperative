@@ -1,6 +1,6 @@
 # About minishell
 <br>
-In this project we build a simple Unix-like shell from scratch.
+Minishell is a larger project which consists of building a simple Unix-like shell from scratch.
 
 <br>
 <br>
