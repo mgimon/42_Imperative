@@ -1,6 +1,6 @@
 # About minishell
 <br>
-Build a simple Unix-like shell
+In this project we build a simple Unix-like shell from scratch.
 
 <br>
 <br>
