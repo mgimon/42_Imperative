@@ -9,7 +9,7 @@ Check them out!
 <div align="center">
   <table style="width:80%; font-size: 20px;">
     <tr>
-      <th colspan="2">42 imperative projects</th>
+      <th colspan="2">42 imperative Projects</th>
     </tr>
     <tr>
      <td colspan="2" align="center"><a href="https://github.com/mgimon/42repo/tree/master/minishell">Minishell</a></td>
