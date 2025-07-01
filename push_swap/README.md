@@ -112,8 +112,8 @@ Then execute:
 ./push_swap value1 value2 ... value500
 ```
 
-Or download multiple-input tester by gemartin99 (
-`https://github.com/gemartin99/Push-Swap-Tester` )
+Or download <a href="https://github.com/gemartin99/Push-Swap-Tester">multiple-input tester</a> by gemartin99 
+<!--( `https://github.com/gemartin99/Push-Swap-Tester` )-->
 
 And execute:
 ```
