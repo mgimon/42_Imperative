@@ -1,6 +1,6 @@
 ## About fract'ol
 
-"Fract'ol" is a simple computer graphics project that uses the miniLibX graphics library. It involves the mathematical idea of complex numbers and offers a chance to delve into optimization concepts in CGI while practicing event handling.
+"Fract'ol" is a simple computer graphics project that uses the miniLibX graphics library. It involves the mathematical idea of complex numbers and offers a chance to explore CGI and events handling.
 
 ## 🟠 Some videos
 
